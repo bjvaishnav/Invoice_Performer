@@ -8,6 +8,7 @@
     "UiPath.DocumentUnderstanding.ML.Activities": "[2.1.0-preview]",
     "UiPath.Excel.Activities": "[2.24.4]",
     "UiPath.IntelligentOCR.Activities": "[7.0.0-preview]",
+    "UiPath.PDF.Activities": "[4.1.0-preview]",
     "UiPath.System.Activities": "[26.2.4]",
     "UiPath.Testing.Activities": "[24.10.4]",
     "UiPath.UIAutomation.Activities": "[26.1.0-preview]"

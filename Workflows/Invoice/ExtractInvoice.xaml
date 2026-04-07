@@ -154,11 +154,7 @@
       <Variable x:TypeArguments="p5:ClassificationResult[]" Name="classificationResult" />
       <Variable x:TypeArguments="p5:ExtractionResult" Name="extractResult" />
       <Variable x:TypeArguments="x:String" Name="cleanTotal" />
-      <Variable x:TypeArguments="x:Double" Name="totalValue">
-        <Variable.Default>
-          <Literal x:TypeArguments="x:Double" />
-        </Variable.Default>
-      </Variable>
+      <Variable x:TypeArguments="x:Double" Default="0" Name="totalValue" />
       <Variable x:TypeArguments="x:String" Name="invoiceNumber" />
       <Variable x:TypeArguments="x:String" Name="invoiceDate" />
       <Variable x:TypeArguments="x:String" Name="vendor" />
